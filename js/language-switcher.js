@@ -1,20 +1,32 @@
 document.addEventListener("DOMContentLoaded", () => {
     const switcher = document.getElementById("languageSwitcher");
-    const initialLang = localStorage.getItem("selectedLang") || document.documentElement.lang || "en";
+
+    // Detect language from URL path (/en/, /es/, etc.)
+    const pathLang = window.location.pathname.split("/")[1];
+    const supportedLangs = ["en", "es", "de", "fr"];
+    let initialLang = supportedLangs.includes(pathLang) ? pathLang : "en";
+
     switcher.value = initialLang;
     loadLanguage(initialLang);
 
+    // Handle manual switching
     switcher.addEventListener("change", (e) => {
         const selectedLang = e.target.value;
-        localStorage.setItem("selectedLang", selectedLang);
-        loadLanguage(selectedLang);
+        changeLanguage(selectedLang);
     });
 });
 
+function changeLanguage(lang) {
+    // Update URL without reloading (for SPA behavior)
+    const newUrl = `/${lang}/`;
+    window.history.pushState({}, "", newUrl);
+    loadLanguage(lang);
+}
+
 function loadLanguage(lang) {
     Promise.all([
-        fetch(`meta/${lang}.json`).then(res => res.json()),
-        fetch(`locales/${lang}.json`).then(res => res.json())
+        fetch(`/meta/${lang}.json`).then(res => res.json()),
+        fetch(`/locales/${lang}.json`).then(res => res.json())
     ])
     .then(([meta, trans]) => {
         // Update metadata
@@ -23,7 +35,7 @@ function loadLanguage(lang) {
         updateMetaTag("keywords", meta.keywords.join(", "));
         document.documentElement.lang = meta.lang;
 
-        // Update text
+        // Update text content
         Object.keys(trans).forEach(id => {
             const el = document.getElementById(id);
             if (el) {
