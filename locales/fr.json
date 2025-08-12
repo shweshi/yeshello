@@ -1,0 +1,25 @@
+{
+    "mainHeading": "👋 Dites Bonjour",
+    "tagline": "<em>Parce que les gens ne sont pas seulement des machines à productivité.</em>",
+    "whyHeading": "Pourquoi dire bonjour ?",
+    "whyText": "Dans notre empressement à être efficaces, nous oublions parfois que les conversations se passent entre humains, pas seulement entre claviers et écrans. Un rapide « Bonjour » ou « Salut » n’est pas du temps perdu — c’est une micro-connexion qui :",
+    "whyList": [
+        "Crée du lien avant de passer aux affaires",
+        "Installe une ambiance conviviale dans les équipes distribuées",
+        "Nous rappelle que nous parlons à une personne, pas à un système de tickets"
+    ],
+    "wayHeading": "La méthode « Dites Bonjour »",
+    "wayText": "Le but n’est pas de spammer les chats avec un simple « salut » et de laisser les gens attendre — il s’agit de saluer et d’aller droit au but.",
+    "goodExample": "✅ <strong>Mieux :</strong><br><code>Salut Alex ! J’espère que tu vas bien.<br>Petite question — la nouvelle configuration du gateway est-elle déjà déployée ?</code>",
+    "badExample": "🚫 <strong>Pas top :</strong><br><code>salut</code><p>(…et ensuite les faire attendre…)</p>",
+    "whenHeading": "Quand dire bonjour",
+    "whenList": [
+        "Premier message de la journée à un collègue",
+        "Quand on contacte quelqu’un de nouveau",
+        "Avant de demander de l’aide — rend l’interaction plus chaleureuse"
+    ],
+    "middleHeading": "Un juste milieu convivial",
+    "middleText": "L’efficacité est importante, mais l’empathie aussi. Dites bonjour, ajoutez votre message et gardez la conversation à la fois humaine et productive.",
+    "closingNote": "💬 Le travail avance plus vite lorsque nous nous rappelons que nous travaillons avec des personnes. Alors allez-y — dites bonjour. C’est gratuit, aimable et ça rend la journée meilleure.",
+    "footerNote": "Hébergé sur GitHub Pages. Open source sur <a href=\"https://github.com/shweshi/yeshello\">GitHub</a>."
+}

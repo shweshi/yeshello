@@ -1,0 +1,25 @@
+{
+    "mainHeading": "👋 Di Hola",
+    "tagline": "<em>Porque las personas no son solo máquinas de productividad.</em>",
+    "whyHeading": "¿Por qué decir hola?",
+    "whyText": "En nuestra prisa por ser eficientes, a veces olvidamos que las conversaciones ocurren entre humanos, no solo entre teclados y pantallas. Un rápido “Hola” o “Buenos días” no es tiempo perdido — es una microconexión que:",
+    "whyList": [
+        "Genera confianza antes de entrar en negocios",
+        "Crea un ambiente amigable en equipos distribuidos",
+        "Nos recuerda que hablamos con una persona, no con un sistema de tickets"
+    ],
+    "wayHeading": "La forma de “Decir Hola”",
+    "wayText": "El objetivo no es inundar chats con un simple “hola” y dejar a la gente esperando — se trata de saludar y llegar al punto.",
+    "goodExample": "✅ <strong>Mejor:</strong><br><code>¡Hola Alex! Espero que estés bien.<br>Pregunta rápida — ¿Ya se implementó la nueva configuración del gateway?</code>",
+    "badExample": "🚫 <strong>No tan bueno:</strong><br><code>hola</code><p>(…y luego hacerles esperar…)</p>",
+    "whenHeading": "Cuándo decir hola",
+    "whenList": [
+        "Primer mensaje del día a un compañero",
+        "Cuando contactas a alguien nuevo",
+        "Antes de pedir ayuda — hace la interacción más cálida"
+    ],
+    "middleHeading": "Un punto medio amistoso",
+    "middleText": "La eficiencia importa, pero también la empatía. Saluda, añade tu mensaje y mantén la conversación tanto humana como productiva.",
+    "closingNote": "💬 El trabajo avanza más rápido cuando recordamos que trabajamos con personas. Así que adelante — di hola. Es gratis, es amable y mejora el día.",
+    "footerNote": "Alojado en GitHub Pages. Código abierto en <a href=\"https://github.com/shweshi/yeshello\">GitHub</a>."
+}

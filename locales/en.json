@@ -1,0 +1,25 @@
+{
+    "mainHeading": "👋 Say Hello",
+    "tagline": "<em>Because people aren’t just productivity machines.</em>",
+    "whyHeading": "Why Say Hello?",
+    "whyText": "In our rush to be efficient, we sometimes forget that conversations happen between <strong>humans</strong>, not just keyboards and screens. A quick “Hello” or “Good morning” isn’t wasted time — it’s a micro-connection that:",
+    "whyList": [
+        "<strong>Builds rapport</strong> before diving into business",
+        "<strong>Creates a friendly atmosphere</strong> in distributed teams",
+        "Reminds us that we’re talking to a person, not a ticket system"
+    ],
+    "wayHeading": "The “Say Hello” Way",
+    "wayText": "The goal isn’t to spam chats with lone “hi” messages and leave people hanging — it’s about <strong>greeting</strong> and getting to the point.",
+    "goodExample": "✅ <strong>Better:</strong><br><code>Hi Alex! Hope you’re doing well.<br>Quick question — is the new gateway config deployed yet?</code>",
+    "badExample": "🚫 <strong>Not great:</strong><br><code>hi</code><p>(…and then making them wait…)</p>",
+    "whenHeading": "When to Say Hello",
+    "whenList": [
+        "First message of the day to a teammate",
+        "When contacting someone new",
+        "Before asking for help — makes the interaction warmer"
+    ],
+    "middleHeading": "A Friendly Middle Ground",
+    "middleText": "Efficiency matters, but so does <strong>empathy</strong>. Say hello, add your message, and keep the conversation both <strong>human</strong> and <strong>productive</strong>.",
+    "closingNote": "💬 Work moves faster when we remember we’re working with people. So go ahead — <strong>say hello</strong>. It’s free, it’s kind, and it makes the day better.",
+    "footerNote": "Hosted by GitHub Pages. Open-source on <a href=\"https://github.com/shweshi/yeshello\">GitHub</a>."
+}

@@ -1,0 +1,25 @@
+{
+    "mainHeading": "👋 Sag Hallo",
+    "tagline": "<em>Weil Menschen nicht nur Produktivitätsmaschinen sind.</em>",
+    "whyHeading": "Warum Hallo sagen?",
+    "whyText": "In unserem Eifer, effizient zu sein, vergessen wir manchmal, dass Gespräche zwischen Menschen stattfinden, nicht nur zwischen Tastaturen und Bildschirmen. Ein schnelles „Hallo“ oder „Guten Morgen“ ist keine verschwendete Zeit — es ist eine Mikroverbindung, die:",
+    "whyList": [
+        "Vertrauen aufbaut, bevor man ins Geschäftliche geht",
+        "Eine freundliche Atmosphäre in verteilten Teams schafft",
+        "Uns daran erinnert, dass wir mit einer Person sprechen, nicht mit einem Ticketsystem"
+    ],
+    "wayHeading": "Der „Sag Hallo“-Weg",
+    "wayText": "Das Ziel ist nicht, Chats mit einem einzelnen „hi“ zu spammen und die Leute warten zu lassen — es geht darum, zu grüßen und direkt auf den Punkt zu kommen.",
+    "goodExample": "✅ <strong>Besser:</strong><br><code>Hi Alex! Hoffe, dir geht’s gut.<br>Schnelle Frage — ist die neue Gateway-Konfiguration schon ausgerollt?</code>",
+    "badExample": "🚫 <strong>Nicht ideal:</strong><br><code>hi</code><p>(…und dann warten lassen…)</p>",
+    "whenHeading": "Wann Hallo sagen",
+    "whenList": [
+        "Erste Nachricht des Tages an einen Kollegen",
+        "Wenn man jemanden Neues kontaktiert",
+        "Bevor man um Hilfe bittet — macht die Interaktion wärmer"
+    ],
+    "middleHeading": "Ein freundlicher Mittelweg",
+    "middleText": "Effizienz ist wichtig, aber auch Empathie. Sag hallo, füge deine Nachricht hinzu und halte das Gespräch sowohl menschlich als auch produktiv.",
+    "closingNote": "💬 Die Arbeit geht schneller voran, wenn wir uns daran erinnern, dass wir mit Menschen arbeiten. Also los — sag hallo. Es ist kostenlos, freundlich und macht den Tag besser.",
+    "footerNote": "Alojado en GitHub Pages. Código abierto en <a href=\"https://github.com/shweshi/yeshello\">GitHub</a>."
+}
